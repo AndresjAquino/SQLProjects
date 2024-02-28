@@ -9,7 +9,7 @@ Descripción: Base de datos para alquilar alojamientos de forma online
 > 4) Stored procedures
 > 5) Triggers
 
-![1]([https://postimg.cc/4mgh8cwn][img]https://i.postimg.cc/4mgh8cwn/Diapositiva1.png[/img][/url])
+![1](https://i.postimg.cc/pX9YLYFQ/Diapositiva1.png)
 
 ![url=https://postimg.cc/jDqnTrpb][img]https://i.postimg.cc/jDqnTrpb/Diapositiva10.png[/img][/url]
 
