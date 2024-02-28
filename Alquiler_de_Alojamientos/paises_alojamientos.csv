@@ -1,11 +1,11 @@
 id_pais;pais;phone_code
-1;Afganist·n;93
+1;Afganist√°n;93
 2;Albania;355
 3;Alemania;49
 4;Andorra;376
 5;Angola;244
 6;Anguila;1264
-7;Ant·rtida;672
+7;Ant√°rtida;672
 8;Antigua y Barbuda;1268
 9;Arabia Saudita;966
 10;Argelia;213
@@ -14,29 +14,29 @@ id_pais;pais;phone_code
 13;Aruba;297
 14;Australia;61
 15;Austria;43
-16;Azerbaiy·n;994
-17;BÈlgica;32
+16;Azerbaiy√°n;994
+17;B√©lgica;32
 18;Bahamas;1242
 19;Bahrein;973
 20;Bangladesh;880
 21;Barbados;1246
 22;Belice;501
-23;BenÌn;229
-24;Bhut·n;975
+23;Ben√≠n;229
+24;Bhut√°n;975
 25;Bielorrusia;375
 26;Birmania;95
 27;Bolivia;591
 28;Bosnia y Herzegovina;387
 29;Botsuana;267
 30;Brasil;55
-31;BrunÈi;673
+31;Brun√©i;673
 32;Bulgaria;359
 33;Burkina Faso;226
 34;Burundi;257
 35;Cabo Verde;238
 36;Camboya;855
-37;Camer˙n;237
-38;Canad·;1
+37;Camer√∫n;237
+38;Canad√°;1
 39;Chad;235
 40;Chile;56
 41;China;86
@@ -44,8 +44,8 @@ id_pais;pais;phone_code
 43;Ciudad del Vaticano;39
 44;Colombia;57
 45;Comoras;269
-46;Rep˙blica del Congo;242
-47;Rep˙blica Democr·tica del Congo;243
+46;Rep√∫blica del Congo;242
+47;Rep√∫blica Democr√°tica del Congo;243
 48;Corea del Norte;850
 49;Corea del Sur;82
 50;Costa de Marfil;225
@@ -58,19 +58,19 @@ id_pais;pais;phone_code
 57;Ecuador;593
 58;Egipto;20
 59;El Salvador;503
-60;Emiratos ¡rabes Unidos;971
+60;Emiratos √Årabes Unidos;971
 61;Eritrea;291
 62;Eslovaquia;421
 63;Eslovenia;386
-64;EspaÒa;34
-65;Estados Unidos de AmÈrica;1
+64;Espa√±a;34
+65;Estados Unidos de Am√©rica;1
 66;Estonia;372
-67;EtiopÌa;251
+67;Etiop√≠a;251
 68;Filipinas;63
 69;Finlandia;358
 70;Fiyi;679
 71;Francia;33
-72;GabÛn;241
+72;Gab√≥n;241
 73;Gambia;220
 74;Georgia;995
 75;Ghana;233
@@ -87,13 +87,13 @@ id_pais;pais;phone_code
 86;Guinea Ecuatorial;240
 87;Guinea-Bissau;245
 88;Guyana;592
-89;HaitÌ;509
+89;Hait√≠;509
 90;Honduras;504
 91;Hong kong;852
-92;HungrÌa;36
+92;Hungr√≠a;36
 93;India;91
 94;Indonesia;62
-95;Ir·n;98
+95;Ir√°n;98
 96;Irak;964
 97;Irlanda;353
 98;Isla de Man;44
@@ -101,10 +101,10 @@ id_pais;pais;phone_code
 100;Isla Norfolk;672
 101;Islandia;354
 102;Islas Bermudas;1441
-103;Islas Caim·n;1345
+103;Islas Caim√°n;1345
 104;Islas Cocos (Keeling);61
 105;Islas Cook;682
-106;Islas de ≈land;358
+106;Islas de √Öland;358
 107;Islas Feroe;298
 108;Islas Georgias del Sur y Sandwich del Sur;500
 109;Islas Maldivas;960
@@ -112,23 +112,23 @@ id_pais;pais;phone_code
 111;Islas Marianas del Norte;1670
 112;Islas Marshall;692
 113;Islas Pitcairn;870
-114;Islas SalomÛn;677
+114;Islas Salom√≥n;677
 115;Islas Turcas y Caicos;1649
 116;Islas Ultramarinas Menores de Estados Unidos;246
-117;Islas VÌrgenes Brit·nicas;1284
-118;Islas VÌrgenes de los Estados Unidos;1340
+117;Islas V√≠rgenes Brit√°nicas;1284
+118;Islas V√≠rgenes de los Estados Unidos;1340
 119;Israel;972
 120;Italia;39
 121;Jamaica;1876
-122;JapÛn;81
+122;Jap√≥n;81
 123;Jersey;44
 124;Jordania;962
-125;Kazajist·n;7
+125;Kazajist√°n;7
 126;Kenia;254
-127;Kirguist·n;996
+127;Kirguist√°n;996
 128;Kiribati;686
 129;Kuwait;965
-130;LÌbano;961
+130;L√≠bano;961
 131;Laos;856
 132;Lesoto;266
 133;Letonia;371
@@ -137,10 +137,10 @@ id_pais;pais;phone_code
 136;Liechtenstein;423
 137;Lituania;370
 138;Luxemburgo;352
-139;MÈxico;52
-140;MÛnaco;377
+139;M√©xico;52
+140;M√≥naco;377
 141;Macao;853
-142;MacedÙnia;389
+142;Maced√¥nia;389
 143;Madagascar;261
 144;Malasia;60
 145;Malawi;265
@@ -167,41 +167,41 @@ id_pais;pais;phone_code
 166;Noruega;47
 167;Nueva Caledonia;687
 168;Nueva Zelanda;64
-169;Om·n;968
-170;PaÌses Bajos;31
-171;Pakist·n;92
+169;Om√°n;968
+170;Pa√≠ses Bajos;31
+171;Pakist√°n;92
 172;Palau;680
 173;Palestina;970
-174;Panam·;507
-175;Pap˙a Nueva Guinea;675
+174;Panam√°;507
+175;Pap√∫a Nueva Guinea;675
 176;Paraguay;595
-177;Per˙;51
+177;Per√∫;51
 178;Polinesia Francesa;689
 179;Polonia;48
 180;Portugal;351
 181;Puerto Rico;1
 182;Qatar;974
 183;Reino Unido;44
-184;Rep˙blica Centroafricana;236
-185;Rep˙blica Checa;420
-186;Rep˙blica Dominicana;1809
-187;Rep˙blica de Sud·n del Sur;211
-188;ReuniÛn;262
+184;Rep√∫blica Centroafricana;236
+185;Rep√∫blica Checa;420
+186;Rep√∫blica Dominicana;1809
+187;Rep√∫blica de Sud√°n del Sur;211
+188;Reuni√≥n;262
 189;Ruanda;250
-190;RumanÌa;40
+190;Ruman√≠a;40
 191;Rusia;7
 192;Sahara Occidental;212
 193;Samoa;685
 194;Samoa Americana;1684
-195;San BartolomÈ;590
-196;San CristÛbal y Nieves;1869
+195;San Bartolom√©;590
+196;San Crist√≥bal y Nieves;1869
 197;San Marino;378
-198;San MartÌn (Francia);1599
-199;San Pedro y MiquelÛn;508
+198;San Mart√≠n (Francia);1599
+199;San Pedro y Miquel√≥n;508
 200;San Vicente y las Granadinas;1784
 201;Santa Elena;290
-202;Santa LucÌa;1758
-203;Santo TomÈ y PrÌncipe;239
+202;Santa Luc√≠a;1758
+203;Santo Tom√© y Pr√≠ncipe;239
 204;Senegal;221
 205;Serbia;381
 206;Seychelles;248
@@ -211,31 +211,31 @@ id_pais;pais;phone_code
 210;Siria;963
 211;Somalia;252
 212;Sri lanka;94
-213;Sud·frica;27
-214;Sud·n;249
+213;Sud√°frica;27
+214;Sud√°n;249
 215;Suecia;46
 216;Suiza;41
-217;Surin·m;597
+217;Surin√°m;597
 218;Svalbard y Jan Mayen;47
 219;Swazilandia;268
-220;Tayikist·n;992
+220;Tayikist√°n;992
 221;Tailandia;66
-222;Taiw·n;886
+222;Taiw√°n;886
 223;Tanzania;255
-224;Territorio Brit·nico del OcÈano Õndico;246
+224;Territorio Brit√°nico del Oc√©ano √çndico;246
 225;Timor Oriental;670
 226;Togo;228
 227;Tokelau;690
 228;Tonga;676
 229;Trinidad y Tobago;1868
 230;Tunez;216
-231;Turkmenist·n;993
-232;TurquÌa;90
+231;Turkmenist√°n;993
+232;Turqu√≠a;90
 233;Tuvalu;688
 234;Ucrania;380
 235;Uganda;256
 236;Uruguay;598
-237;Uzbekist·n;998
+237;Uzbekist√°n;998
 238;Vanuatu;678
 239;Venezuela;58
 240;Vietnam;84
