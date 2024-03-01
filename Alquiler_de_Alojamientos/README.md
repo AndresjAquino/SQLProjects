@@ -1,4 +1,4 @@
-# PROYECTO: ALQUILER DE ALOJAMIENTOS
+# PROYECTO: ALQUILER DE ALOJAMIENTOS 🏨
 
 Descripción: Base de datos para alquilar alojamientos de forma online
 
